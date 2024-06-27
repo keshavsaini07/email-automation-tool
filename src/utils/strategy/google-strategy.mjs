@@ -66,7 +66,3 @@ export default passport.use(
   )
 );
 
-// for google auth, oauth client details
-// client-id : 1033051502721-qf374u7vabbj6hcoops14ohll90eht3o.apps.googleusercontent.com
-// client-secret : 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
-// redirect-url : http://localhost:3000/api/auth/google/redirect
