@@ -1,9 +1,9 @@
 import ErrorResponse from './error-response.js'
 import SuccessResponse from './success-response.js'
-import Enums from './enums';
+// import Enums from './enums';
 
-export default {
+export {
   ErrorResponse,
   SuccessResponse,
-  Enums,
+  // Enums,
 };
